@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1687149813 source:e:\cse project\cproject\main.c
+	<stdio.h>
+	<unistd.h>
+
+1683862759 e:\cse project\cproject\skd.h
+
+1687149813 source:e:\cse project\periodic_table\main.c
+	<stdio.h>
+	<unistd.h>
+
